@@ -118,7 +118,8 @@ Please note that the names you type in are the ones in quotes. Any of the names 
 [15] Clownpiece "Clownpiece"								<br>
 [15] Junko "Junko" "Junk" [+Python]							<br>
 [15] Hecatia Lapislazuli "Hecatia" [+Python]						<br>
-[--] Rinnosuke Morichika "Kourin", "Rinnosuke" [+SGYddisac]				<br>
+[16] Okina Matara "Okina"         <br>
+[--] Rinnosuke Morichika "Kourin", "Rinnosuke" [+SGYddisac]		how the FUCK do you add him to a spell card list		<br>
 
 ###IDO###
 
